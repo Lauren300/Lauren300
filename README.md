@@ -34,7 +34,7 @@ Para construir soluções completas, eficientes e inovadoras.
 
 **💡 Áreas de atuação**
 
-* Suporte ao usuário
+*  Suporte ao usuário
 * Redes de computadores
 * Desenvolvimento de sistemas
 * Engenharia de software
@@ -47,8 +47,8 @@ Para construir soluções completas, eficientes e inovadoras.
 
 ## 💻 Tecnologias
 
-*Java
-*C#
+* Java
+* C#
 * HTML | CSS | JavaScript
 * React
 * Node.js
