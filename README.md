@@ -8,13 +8,10 @@
 
 ## ✨ Sobre mim
 
-Sou apaixonada por tecnologia e estou em uma jornada que conecta **suporte técnico, redes e desenvolvimento de software**.
-
-Atualmente, atuo como **Auxiliar Técnica** na Avantia num projeto com a Secretaria de Segurança publica da Bahia, onde fortaleço minhas habilidades em suporte ao usuário e infraestrutura de redes, enquanto curso **Engenharia de Software** na Universidade Católica de Salvador e aprofundo meus conhecimentos em desenvolvimento de Softwere, para me desenvolver como programadora FullStack.
-
-Minha base vem de um **Técnico em Desenvolvimento de Sistemas** no Senai Cimatec, e minha vontade de criar soluções me levou a participar de **hackathons**, onde fui **vencedora de um projeto**, conquistando uma experiência técnica em São Paulo que me fez me apaixonar mais pela area e me incentivou a continuar me desenvolvendo .
-
-Tenho grande interesse em **UX/UI e Frontend**, buscando sempre criar interfaces intuitivas e experiências de usuário incrives.
+Sou apaixonada por tecnologia e sigo uma jornada que conecta suporte técnico, redes e desenvolvimento de software.
+Atualmente, atuo como Auxiliar Técnica na Avantia em um projeto com a Secretaria de Segurança Pública da Bahia, onde fortaleço minhas habilidades em suporte ao usuário e infraestrutura de redes. Paralelamente, curso Engenharia de Software na Universidade Católica de Salvador, aprofundando meus conhecimentos para me desenvolver como uma programadora FullStack.
+Minha base técnica foi construída no Senai Cimatec, e minha proatividade em criar soluções me levou a participar de hackathons, sendo vencedora em um deles. Essa conquista me proporcionou uma experiência técnica em São Paulo que intensificou minha paixão pela área e me motivou a evoluir constantemente.
+Tenho grande interesse em UX/UI e Frontend, buscando sempre criar interfaces intuitivas e experiências de usuário incríveis.
 
 ---
 
