@@ -34,7 +34,7 @@ Para construir soluções completas, eficientes e inovadoras.
 
 **💡 Áreas de atuação**
 
-*  Suporte ao usuário
+* Suporte usuário
 * Redes de computadores
 * Desenvolvimento de sistemas
 * Engenharia de software
