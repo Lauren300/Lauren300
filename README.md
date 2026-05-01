@@ -44,14 +44,14 @@ Para construir soluções completas, eficientes e inovadoras.
 
 ## 💻 Tecnologias
 
-* Java
-* C#
-* HTML | CSS | JavaScript
-* React
-* Node.js
-* Python
-* SQL
-* C
+* Java ☕
+* C# 🎯
+* HTML | CSS | JavaScript 🌐
+* React ⚛️
+* Node.js 🟢
+* Python 🐍
+* SQL 🗄️
+* C ⚙️
 
 ---
 
